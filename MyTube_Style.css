@@ -33,7 +33,19 @@ body {
   padding: 20px;
   margin-top: 80px;  
 }
-
+.description {
+  position:relative;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: auto;
+  text-align: center;
+  background: #35133fd8;
+  color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid #702f2f;
+  font-size: 16px;
+  line-height: 1.6;
+}
 
 .player {
   width: 80%;
